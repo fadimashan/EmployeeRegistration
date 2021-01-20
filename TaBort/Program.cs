@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TaBort
+namespace EmployeeRegistration
 {
     class Program
     {
@@ -77,12 +77,12 @@ namespace TaBort
                     }
                     else
                     {
-                        Console.WriteLine("Enter option number (1 or 2)");
+                        Console.WriteLine("Enter option number (1,2 or 3)");
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Enter option number (1 or 2)");
+                    Console.WriteLine("Enter option number (1,2 or 3)");
                 }
 
 
